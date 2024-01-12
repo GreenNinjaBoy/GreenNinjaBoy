@@ -31,7 +31,7 @@
 | [Live Site](https://greenninjaboy.github.io/Munros-of-Scotland-PP1/)      | [Repo](https://github.com/GreenNinjaBoy/Munros-of-Scotland-PP1)           |
   |    :----:                                                       |    :----:                                                       | 
 
-### <img src="(https://github.com/zachflauaus/emoji-repo/blob/master/images/starwars-baby-yoda.png)">2️⃣ JavaScript - StarWars-Trivia - Grade: Pass With Merit
+### ![image](https://github.com/GreenNinjaBoy/GreenNinjaBoy/assets/68825060/790d81c9-e1a3-4552-b52a-05d25e3b17a8) 2️⃣ JavaScript - StarWars-Trivia - Grade: Pass With Merit
 
 - Being a fan of StarWars I really wanted to create a page that could test my knowledge of the genre.
 
