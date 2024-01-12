@@ -14,7 +14,8 @@
 - 📫 How to reach me **jamie.connell_10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><button href="https://www.linkedin.com/in/jamie-connell-995748193/" target="_blank" color="blue">LinkedIn</button>
+<p align="left">    <a href="https://github.com/GreenNinjaBoy" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Github-%20-%20?style=plastic&logo=github&logoColor=white&label=GreenNinjaBoy&labelColor=black&color=black"></a>
+    <a href="https://www.linkedin.com/in/jamie-connell-995748193/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20-%20?style=plastic&logo=LinkedIn&logoColor=white&label=J.Connell&labelColor=blue&color=blue"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
