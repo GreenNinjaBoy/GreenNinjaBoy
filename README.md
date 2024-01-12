@@ -14,7 +14,7 @@
 - 📫 How to reach me **jamie.connell_10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><button href="https://www.linkedin.com/in/jamie-connell-995748193/" target="_blank" color="blue">LinkedIn</button>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,7 +31,7 @@
 | [Live Site](https://greenninjaboy.github.io/Munros-of-Scotland-PP1/)      | [Repo](https://github.com/GreenNinjaBoy/Munros-of-Scotland-PP1)           |
   |    :----:                                                       |    :----:                                                       | 
 
-### <img width="30" height="30" src=(https://github.com/GreenNinjaBoy/GreenNinjaBoy/assets/68825060/790d81c9-e1a3-4552-b52a-05d25e3b17a8)> 2️⃣ JavaScript - StarWars-Trivia - Grade: Pass With Merit
+### 2️⃣ JavaScript - StarWars-Trivia - Grade: Pass With Merit
 
 - Being a fan of StarWars I really wanted to create a page that could test my knowledge of the genre.
 
