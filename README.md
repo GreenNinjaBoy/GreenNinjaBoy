@@ -31,7 +31,7 @@
 | [Live Site](https://greenninjaboy.github.io/Munros-of-Scotland-PP1/)      | [Repo](https://github.com/GreenNinjaBoy/Munros-of-Scotland-PP1)           |
   |    :----:                                                       |    :----:                                                       | 
 
-### 2️⃣ JavaScript - StarWars-Trivia - Grade: Pass With Merit
+### <img src="http://emojis.slackmojis.com/emojis/images/1485535407/1679/bb8flame.png">2️⃣ JavaScript - StarWars-Trivia - Grade: Pass With Merit
 
 - Being a fan of StarWars I really wanted to create a page that could test my knowledge of the genre.
 
