@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greenninjaboy&label=Profile%20views&color=0e75b6&style=flat" alt="greenninjaboy" /> </p>
 
+- I'm currently working on **my portfolio 4 project as a student with CodeInstitute**
+
 - 🌱 I’m currently learning **Django**
 
-- 🤝 I’m looking for help with **Ideas for my 4th Project as a student of Code Institue**
+- 🤝 I’m looking for help with **My prject once i fully get it off the ground**
 
 - 💬 Ask me about **Anything really**
 
