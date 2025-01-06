@@ -32,43 +32,47 @@
     <tr>
       <td valign="top" width="33%">
         <h3 align="center">👩‍🎓 Student Projects</h3>
-        <div align="center">
-          <h4>1️⃣ HTML & CSS - Munros of Scotland</h4>
-          <p>Grade: Pass</p>
-          <p>A website about the Munros of Scotland, showcasing my interest in Scottish highlands.</p>
-          <p>
-            <a href="https://greenninjaboy.github.io/Munros-of-Scotland-PP1/">Live Site</a> |
-            <a href="https://github.com/GreenNinjaBoy/Munros-of-Scotland-PP1">Repo</a>
-          </p>
-          <h4>2️⃣ JavaScript - StarWars-Trivia</h4>
-          <p>Grade: Pass With Merit</p>
-          <p>An interactive Star Wars trivia game testing knowledge of the franchise.</p>
-          <p>
-            <a href="https://greenninjaboy.github.io/Star-Wars-Trivia-PP2/">Live Site</a> |
-            <a href="https://github.com/GreenNinjaBoy/Star-Wars-Trivia-PP2">Repo</a>
-          </p>
-          <h4>3️⃣ Python - StoryTime Adventures</h4>
-          <p>Grade: Pass with Merit</p>
-          <p>An interactive bedtime story generator with branching narratives.</p>
-          <p>
-            <a href="https://greenninjaboy.github.io/Story-Time-Adventures-PP3/">Live Site</a> |
-            <a href="https://github.com/GreenNinjaBoy/Story-Time-Adventures-PP3">Repo</a>
-          </p>
-          <h4><img src="https://img.shields.io/badge/4-Django%20Scottish%20Gems-blue?style=for-the-badge" alt="Project 4"></h4>
-            <p> Grade: Pass with Merit</p>
-            <p> A place for users to share places they discover in scotland</p>
-            <p>
-                <a></a>
-                <a></a>
-            </p>
-        <h4><img src="https://img.shields.io/badge/5-Full%20Stack%20React%20Forge%20Focus-blue?style=for-the-badge" alt="Project 5"></h4>
-        <p>Grade: Pass</p>
-        <p>A task management tool users can user to track goals they have created</p>
-        <p>
-            <a></a>
-            <a></a>
-        </p>
-        </div>
+<div align="center">
+  <h4>1️⃣ HTML & CSS - Munros of Scotland</h4>
+  <p>Grade: Pass</p>
+  <p>A website about the Munros of Scotland, showcasing my interest in Scottish highlands.</p>
+  <p>
+    <a href="https://greenninjaboy.github.io/Munros-of-Scotland-PP1/">Live Site</a> |
+    <a href="https://github.com/GreenNinjaBoy/Munros-of-Scotland-PP1">Repo</a>
+  </p>
+
+  <h4>2️⃣ JavaScript - StarWars-Trivia</h4>
+  <p>Grade: Pass With Merit</p>
+  <p>An interactive Star Wars trivia game testing knowledge of the franchise.</p>
+  <p>
+    <a href="https://greenninjaboy.github.io/Star-Wars-Trivia-PP2/">Live Site</a> |
+    <a href="https://github.com/GreenNinjaBoy/Star-Wars-Trivia-PP2">Repo</a>
+  </p>
+
+  <h4>3️⃣ Python - StoryTime Adventures</h4>
+  <p>Grade: Pass with Merit</p>
+  <p>An interactive bedtime story generator with branching narratives.</p>
+  <p>
+    <a href="https://greenninjaboy.github.io/Story-Time-Adventures-PP3/">Live Site</a> |
+    <a href="https://github.com/GreenNinjaBoy/Story-Time-Adventures-PP3">Repo</a>
+  </p>
+
+  <h4>4️⃣ Django - Scottish Gems</h4>
+  <p>Grade: Pass with Merit</p>
+  <p>A place for users to share places they discover in scotland</p>
+  <p>
+    <a></a>
+    <a></a>
+  </p>
+
+  <h4>5️⃣ Full Stack using React - Forge Focus</h4>
+  <p>Grade: Pass</p>
+  <p>A task management tool users can user to track goals they have created</p>
+  <p>
+    <a></a>
+    <a></a>
+  </p>
+</div>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">💻 Personal Projects</h3>
