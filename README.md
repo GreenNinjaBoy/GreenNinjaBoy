@@ -54,14 +54,14 @@
             <a href="https://greenninjaboy.github.io/Story-Time-Adventures-PP3/">Live Site</a> |
             <a href="https://github.com/GreenNinjaBoy/Story-Time-Adventures-PP3">Repo</a>
           </p>
-          <h4> <img src="https://img.shields.io/badge/4-Django%20-%20Scottish-Gems-blue?style=for-the-badge" alt="Project 4"></h4>
+          <h4><img src="https://img.shields.io/badge/4-Django%20Scottish%20Gems-blue?style=for-the-badge" alt="Project 4"></h4>
             <p> Grade: Pass with Merit</p>
             <p> A place for users to share places they discover in scotland</p>
             <p>
                 <a></a>
                 <a></a>
             </p>
-        <h4> Full Stack using React - Forge Focus</h4>
+        <h4><img src="https://img.shields.io/badge/5-Full%20Stack%20React%20Forge%20Focus-blue?style=for-the-badge" alt="Project 5"></h4>
         <p>Grade: Pass</p>
         <p>A task management tool users can user to track goals they have created</p>
         <p>
