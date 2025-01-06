@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 🤝 I’m looking for help with **My prject once i fully get it off the ground**
+- 🤝 I’m looking for help with **Finding my first Junior Developer Role**
 
 - 💬 Ask me about **Anything really**
 
@@ -54,6 +54,20 @@
             <a href="https://greenninjaboy.github.io/Story-Time-Adventures-PP3/">Live Site</a> |
             <a href="https://github.com/GreenNinjaBoy/Story-Time-Adventures-PP3">Repo</a>
           </p>
+          <h4> Django - Scottish Gems</h4>
+            <p> Grade: Pass with Merit</p>
+            <p> A place for users to share places they discover in scotland</p>
+            <p>
+                <a></a>
+                <a></a>
+            </p>
+        <h4> Full Stack using React - Forge Focus</h4>
+        <p>Grade: Pass</p>
+        <p>A task management tool users can user to track goals they have created</p>
+        <p>
+            <a></a>
+            <a></a>
+        </p>
         </div>
       </td>
       <td valign="top" width="33%">
