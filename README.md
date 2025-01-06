@@ -54,7 +54,7 @@
             <a href="https://greenninjaboy.github.io/Story-Time-Adventures-PP3/">Live Site</a> |
             <a href="https://github.com/GreenNinjaBoy/Story-Time-Adventures-PP3">Repo</a>
           </p>
-          <h4> Django - Scottish Gems</h4>
+          <h4> <img src="https://img.shields.io/badge/4-Django%20-%20Scottish-Gems-blue?style=for-the-badge" alt="Project 4"></h4>
             <p> Grade: Pass with Merit</p>
             <p> A place for users to share places they discover in scotland</p>
             <p>
