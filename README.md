@@ -7,9 +7,7 @@
 
 - I'm currently working on **Improving my Skills and knowledge**
 
-- 🌱 I’m currently learning **Django**
-
-- 🤝 I’m looking for help with ** I’m looking for help with landing my first job within the tech industry. Let's chat!
+- 🤝 I’m looking for help with **I’m looking for help with landing my first job within the tech industry. Let's chat!
 
 - When I am not coding I spend my time with family and friends and also enjoy playing videogames.
 
