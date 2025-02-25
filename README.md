@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jamie Connell</h1>
 <h3 align="center">I am a Junior FullStack Software Developer</h3>
 
-<img align="right" alt="Jamie Connell - FullStack Developer" width="400" src="https://github.com/GreenNinjaBoy/GreenNinjaBoy/blob/main/github-banner.svg">
+<img align="right" alt="Jamie Connell - FullStack Developer" width="400" src="https://raw.githubusercontent.com/GreenNinjaBoy/GreenNinjaBoy/main/github-banner.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greenninjaboy&label=Profile%20views&color=0e75b6&style=flat" alt="greenninjaboy" /> </p>
 
