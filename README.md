@@ -94,6 +94,21 @@
   </p>
 </div>
       </td>
+      <td valign="top" width="25%">
+        <h3 align="center">🔄 Improved Student Projects</h3>
+        <div align="center">
+          <p><em>Projects I've revisited to incorporate feedback and enhance with new skills.</em></p>
+          <p>Coming Soon!</p>
+          <!-- You can add your improved projects here as you complete them
+          <h4>Munros of Scotland 2.0</h4>
+          <p>Enhancements: Responsive design, improved UX, added interactive map</p>
+          <p>
+            <a href="#">Live Site</a> |
+            <a href="#">Repo</a>
+          </p>
+          -->
+        </div>
+      </td>
       <td valign="top" width="33%">
         <h3 align="center">💻 Personal Projects</h3>
         <div align="center">
