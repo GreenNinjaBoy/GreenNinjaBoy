@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jamie Connell</h1>
-<h3 align="center">An Inspiring Junior Developer Currently Studying With Code Institiue</h3>
+<h3 align="center">I am a Junior FullStack Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greenninjaboy&label=Profile%20views&color=0e75b6&style=flat" alt="greenninjaboy" /> </p>
 
-- I'm currently working on **my portfolio 4 project as a student with CodeInstitute**
+- I'm currently working on **Improving my Skills and knowledge**
 
 - 🌱 I’m currently learning **Django**
 
-- 🤝 I’m looking for help with **Finding my first Junior Developer Role**
+- 🤝 I’m looking for help with ** I’m looking for help with landing my first job within the tech industry. Let's chat!
 
-- 💬 Ask me about **Anything really**
-
-- 📫 How to reach me **jamie.connell_10@hotmail.com**
+- When I am not coding I spend my time with family and friends and also enjoy playing videogames.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">    <a href="https://github.com/GreenNinjaBoy" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Github-%20-%20?style=plastic&logo=github&logoColor=white&label=GreenNinjaBoy&labelColor=black&color=black"></a>
