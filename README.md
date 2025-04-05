@@ -99,17 +99,16 @@
         <div align="center">
           <p><em>Projects I've revisited to incorporate feedback and enhance with new skills.</em></p>
            <h4>1️⃣ HTML & CSS - Munros of Scotland 2.0</h4>
-              <p> This is the updated version of my first project as a strudent with code institute</p>
+              <p> This is the updated version of my first project as a strudent with code institute remianing with the basic HTML/CSS</p>
               <p>
-                <a href="">Live Site</a> |
+                <a href="https://greenninjaboy.github.io/Munros-Of-Scotland-2.0/">Live Site</a> |
                 <a href="https://github.com/GreenNinjaBoy/Munros-Of-Scotland-2.0">Repo</a>
               </p>
-          <!-- You can add your improved projects here as you complete them
-          <h4>Munros of Scotland 2.0</h4>
-          <p>Enhancements: Responsive design, improved UX, added interactive map</p>
+          <h4>2️⃣StarWars Trivia 2.0</h4>
+          <p>This is the revisited version of the second project I created as a student with code institute</p>
           <p>
             <a href="#">Live Site</a> |
-            <a href="#">Repo</a>
+            <a href="https://github.com/GreenNinjaBoy/star-wars-trivia-2.0">Repo</a>
           </p>
           -->
         </div>
