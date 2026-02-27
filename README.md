@@ -141,11 +141,7 @@ A refinement of the original JavaScript trivia game with improved logic.
 <img
   align="left"
   src="https://www.credential.net/embed/daab1a04-ae18-446d-b94e-dff222727cbd"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</img>
+/>
 
 ---
 
