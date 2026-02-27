@@ -138,10 +138,9 @@ A refinement of the original JavaScript trivia game with improved logic.
 ---
 
 ## 🏅 Certifications  
-<img
-  align="left"
-  src="https://www.credential.net/embed/daab1a04-ae18-446d-b94e-dff222727cbd"
-/>
+<p>
+<img align="left" src="https://www.credential.net/embed/daab1a04-ae18-446d-b94e-dff222727cbd"/>
+</p>
 
 ---
 
