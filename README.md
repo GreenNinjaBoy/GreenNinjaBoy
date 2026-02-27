@@ -139,7 +139,7 @@ A refinement of the original JavaScript trivia game with improved logic.
 
 ## 🏅 Certifications  
 <p>
-<img align="left" src="https://www.credential.net/embed/daab1a04-ae18-446d-b94e-dff222727cbd"/>
+<img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/124478632)"/>
 </p>
 
 ---
