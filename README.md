@@ -77,66 +77,89 @@ I’m passionate about creating reliable, user‑focused applications and contin
 
 <h4 align="center">A showcase of my learning journey — from student projects to improved versions and personal work.</h4>
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">👩‍🎓 Student Projects</h3>
+<div align="center">
+  <h4>1️⃣ HTML & CSS - Munros of Scotland</h4>
+  <p>Grade: Pass</p>
+  <p>A website about the Munros of Scotland, showcasing my interest in Scottish highlands.</p>
+  <p>
+    <a href="https://greenninjaboy.github.io/Munros-of-Scotland-PP1/">Live Site</a> |
+    <a href="https://github.com/GreenNinjaBoy/Munros-of-Scotland-PP1">Repo</a>
+  </p>
 
-## 👩‍🎓 Student Projects
+  <h4>2️⃣ JavaScript - StarWars-Trivia</h4>
+  <p>Grade: Pass With Merit</p>
+  <p>An interactive Star Wars trivia game testing knowledge of the franchise.</p>
+  <p>
+    <a href="https://greenninjaboy.github.io/Star-Wars-Trivia-PP2/">Live Site</a> |
+    <a href="https://github.com/GreenNinjaBoy/Star-Wars-Trivia-PP2">Repo</a>
+  </p>
 
-### 1️⃣ HTML & CSS — Munros of Scotland  
-**Grade:** Pass  
-A site introducing Scotland’s Munros, themed around the highlands.  
-🔗 [Live Site](https://greenninjaboy.github.io/Munros-of-Scotland-PP1/) |  
-💻 [Repo](https://github.com/GreenNinjaBoy/Munros-of-Scotland-PP1)
+  <h4>3️⃣ Python - StoryTime Adventures</h4>
+  <p>Grade: Pass with Merit</p>
+  <p>An interactive bedtime story generator with branching narratives.</p>
+  <p>
+    <a href="https://greenninjaboy.github.io/Story-Time-Adventures-PP3/">Live Site</a> |
+    <a href="https://github.com/GreenNinjaBoy/Story-Time-Adventures-PP3">Repo</a>
+  </p>
 
-### 2️⃣ JavaScript — StarWars Trivia  
-**Grade:** Pass with Merit  
-Interactive trivia game for Star Wars fans.  
-🔗 [Live Site](https://greenninjaboy.github.io/Star-Wars-Trivia-PP2/) |  
-💻 [Repo](https://github.com/GreenNinjaBoy/Star-Wars-Trivia-PP2)
+  <h4>4️⃣ Django - Scottish Gems</h4>
+  <p>Grade: Pass with Merit</p>
+  <p>A place for users to share places they discover in scotland</p>
+  <p>
+    <a></a>
+    <a></a>
+  </p>
 
-### 3️⃣ Python — StoryTime Adventures  
-**Grade:** Pass with Merit  
-A branching-narrative bedtime story generator.  
-🔗 [Live Site](https://greenninjaboy.github.io/Story-Time-Adventures-PP3/) |  
-💻 [Repo](https://github.com/GreenNinjaBoy/Story-Time-Adventures-PP3)
-
-### 4️⃣ Django — Scottish Gems  
-**Grade:** Pass with Merit  
-A platform for sharing hidden Scottish locations.  
-🔗 *Coming soon…*  
-💻 *Coming soon…*
-
-### 5️⃣ Full Stack (React) — Forge Focus  
-**Grade:** Pass  
-A goal‑tracking and task‑management application.  
-🔗 *Coming soon…*  
-💻 *Coming soon…*
-
----
-
-## 🔄 Improved Student Projects
-
-### 1️⃣ Munros of Scotland 2.0  
-Refreshed with better HTML/CSS structure and styling improvements.  
-🔗 [Live Site](https://greenninjaboy.github.io/Munros-Of-Scotland-2.0/) |  
-💻 [Repo](https://github.com/GreenNinjaBoy/Munros-Of-Scotland-2.0)
-
-### 2️⃣ StarWars Trivia 2.0  
-A refinement of the original JavaScript trivia game with improved logic.  
-🔗 *Live site coming soon*  
-💻 [Repo](https://github.com/GreenNinjaBoy/star-wars-trivia-2.0)
-
----
-
-## 💻 Personal Projects  
-*Coming soon — currently in development.*
-
----
-
-## 🤝 Hackathon Projects  
-*Coming soon — watch this space!*
-
----
-
+  <h4>5️⃣ Full Stack using React - Forge Focus</h4>
+  <p>Grade: Pass</p>
+  <p>A task management tool users can user to track goals they have created</p>
+  <p>
+    <a></a>
+    <a></a>
+  </p>
+</div>
+      </td>
+      <td valign="top" width="25%">
+        <h3 align="center">🔄 Improved Student Projects</h3>
+        <div align="center">
+          <p><em>Projects I've revisited to incorporate feedback and enhance with new skills.</em></p>
+           <h4>1️⃣ HTML & CSS - Munros of Scotland 2.0</h4>
+              <p> This is the updated version of my first project as a strudent with code institute remianing with the basic HTML/CSS</p>
+              <p>
+                <a href="https://greenninjaboy.github.io/Munros-Of-Scotland-2.0/">Live Site</a> |
+                <a href="https://github.com/GreenNinjaBoy/Munros-Of-Scotland-2.0">Repo</a>
+              </p>
+          <h4>2️⃣StarWars Trivia 2.0</h4>
+          <p>This is the revisited version of the second project I created as a student with code institute</p>
+          <p>
+            <a href="#">Live Site</a> |
+            <a href="https://github.com/GreenNinjaBoy/star-wars-trivia-2.0">Repo</a>
+          </p>
+          -->
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">💻 Personal Projects</h3>
+        <div align="center">
+          <p><em>This will be filled with the personal projects i am currently working on</em></p>
+          <p>Coming Soon!</p>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">🤝 Hackathon Projects</h3>
+        <div align="center">
+          <p><em>This section will display my hackathon participations and achievements.</em></p>
+          <p>Coming Soon!</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 ## 🏅 Certifications  
 <p>
 <img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/124478632)"/>
